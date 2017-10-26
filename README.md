@@ -1,8 +1,8 @@
-# ShovelMc
-A minecraft core for server.
+#ShovelMC
+Core for the Minecraft server.
+At the moment, ShovelMC is in development.
+If you find any bugs, please write here: shovelmc@yandex.ru.
 
-The core can have some bugs, please report about them here: shovelmc@yandex.ru
-
-Download core: 
-
-https://github.com/ShovelMc/ShovelMc/archive/master.zip
+ShovelMC - Russian fork of core PaperSpigot.
+[RU] VK Group:
+https://vk.com/shovelspigot
