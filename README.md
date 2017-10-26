@@ -1,4 +1,4 @@
-#ShovelMC
+#ShovelMc
 
 Core for the Minecraft server.
 At the moment, ShovelMC is in development.
